@@ -1,2 +1,9 @@
-@import './libs/normalize';
+@import "./libs/normalize";
 
+.movie-list {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: auto;
+  min-height: 930px;
+}
